@@ -1,6 +1,11 @@
+![github-contribution-grid-snake-dark](https://github.com/user-attachments/assets/e077b614-a8cf-46cd-bb71-6cae9457ec93)
+
 - 👋 Hi, I’m CM-RejaulKarim
 - 👀 I’m interested in programming 
 - 🌱 I’m currently learning Java lang.
+
+  
+
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
