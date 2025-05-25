@@ -1,4 +1,8 @@
-![github-contribution-grid-snake-dark](https://github.com/user-attachments/assets/e077b614-a8cf-46cd-bb71-6cae9457ec93)
+
+
+
+
+![Life Code GIF](https://github.com/user-attachments/assets/0426b804-7cd1-447e-aa3a-b40a0a49e399)
 
 - 👋 Hi, I’m CM-RejaulKarim
 - 👀 I’m interested in programming 
@@ -11,6 +15,7 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... --->
+![github-contribution-grid-snake-dark](https://github.com/user-attachments/assets/e077b614-a8cf-46cd-bb71-6cae9457ec93)
 
 <!---
 CM-RejaulKarim/CM-RejaulKarim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
