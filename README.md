@@ -9,12 +9,15 @@
 <h3 align="center">Full Stack Java Developer</h3>
 
 
+<h3 align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CM-RejaulKarim&layout=compact" alt="coding" align="right" width="300px" height="200"></h3>
+
+
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning Java lang.
 - 📫 How to reach me **cmrejaulkarim@gmail.com**
 
 
-<h3 align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CM-RejaulKarim&layout=compact" alt="coding" align="center" width="300px" height="200"></h3>
+
 
   
 
