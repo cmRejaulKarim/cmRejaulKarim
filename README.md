@@ -7,7 +7,7 @@
 - 👋 Hi, I’m CM-RejaulKarim
 - 👀 I’m interested in programming 
 - 🌱 I’m currently learning Java lang.
-- ![Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cmabdullah&layout=compact&hide=javascript,html,css,php)
+- ![Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=CM-RejaulKarim&layout=compact&hide=javascript,html,css,php)
 
   
 
