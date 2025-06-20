@@ -9,6 +9,9 @@
 <h3 align="center">Full Stack Java Developer</h3>
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=CM-RejaulKarim&label=Profile%20views&color=0e75b6&style=flat" alt="CM-RejaulKarim" /> </p>
+
+
 <h3 align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CM-RejaulKarim&layout=compact" alt="coding" align="right" width="300px" height="200"></h3>
 
 
