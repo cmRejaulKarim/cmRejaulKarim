@@ -9,10 +9,10 @@
 <h3 align="center">Full Stack Java Developer</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=RejaulKarim64&label=Profile%20views&color=0e75b6&style=flat" alt="RejaulKarim64" /> </p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=RejaulKarim64&label=Profile%20views&color=0e75b6&style=flat" alt="RejaulKarim64" /><!--cmRejaulKarim--></p>
 
 
-<h3 align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RejaulKarim64&layout=compact" alt="coding" align="right" width="300px" height="200"></h3>
+<h3 align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RejaulKarim64&layout=compact" alt="coding" align="right" width="300px" height="200"><!--cmRejaulKarim--></h3>
 
 
 - 👀 I’m interested in programming.
@@ -34,10 +34,10 @@
 
 ![github-contribution-grid-snake-dark](https://github.com/user-attachments/assets/e077b614-a8cf-46cd-bb71-6cae9457ec93)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:<!--cmRejaulKarim--></h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/c-m-rejaul-karim-0039161b1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leoemranhss" height="30" width="40" /></a>
-<a href="https://www.facebook.com/IDK.Username.mine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="leoemranhss" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/c-m-rejaul-karim-0039161b1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leoemranhss" height="30" width="40" /><!--cmRejaulKarim--></a>
+<a href="https://www.facebook.com/IDK.Username.mine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="leoemranhss" height="30" width="40" /><!--cmRejaulKarim--></a>
 </p>
 
 
@@ -45,12 +45,12 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/><!--cmRejaulKarim--></a> 
  <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/><!--cmRejaulKarim--></a>
   
  <a href="https://angular.io" target="_blank" rel="noreferrer"> 
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
+    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/><!--cmRejaulKarim--></a>
   
  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
