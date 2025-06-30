@@ -4,7 +4,7 @@
 
 <!---![Life Code GIF](https://github.com/user-attachments/assets/0426b804-7cd1-447e-aa3a-b40a0a49e399) --->
 
- <h1 align="center">👋 Hi, I’m C.M. Rejaul Karim</h1>
+ <h1 align="center">👋 Hi, I’m CM Rejaul Karim</h1>
 
 <h3 align="center">Full Stack Java Developer</h3>
 
