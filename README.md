@@ -15,9 +15,10 @@
 <h3 align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RejaulKarim64&layout=compact" alt="coding" align="right" width="300px" height="200"><!--cmRejaulKarim--></h3>
 
 
-- 👀 I’m interested in programming.
-- 🌱 I’m currently learning Java lang.
+- 👀 a passionate programmer and learner.
+- 🌱 I’m currently learning Spring Boot FrameWork.
 - 📫 How to reach me **cmrejaulkarim@gmail.com**
+- 📄 Know about my experiences [cmrejaulkarim.com](https://iamcrk.me)
 
 
 
