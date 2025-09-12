@@ -9,11 +9,11 @@
 <h3 align="center">Full Stack Java Developer</h3>
 
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=RejaulKarim64&label=Profile%20views&color=0e75b6&style=flat" alt="RejaulKarim64" /><!--cmRejaulKarim--></p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=RejaulKarim64&label=Profile%20views&color=0e75b6&style=flat" alt="cmRejaulKarim" /><!--cmRejaulKarim--></p>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=cmRejaulKarim&label=Profile%20views&color=0e75b6&style=flat" width="0" height="0" alt="cmRejaulKarim" /><!--cmRejaulKarim--></p>
 
 
-<h3 align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RejaulKarim64&layout=compact" alt="coding" align="right" width="300px" height="200"><!--cmRejaulKarim--></h3>
+<h3 align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmRejaulKarim&layout=compact" alt="coding" align="right" width="300px" height="200"><!--cmRejaulKarim--></h3>
 
 
 - 👀 a passionate programmer and learner.
