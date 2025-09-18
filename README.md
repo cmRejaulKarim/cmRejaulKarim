@@ -27,8 +27,8 @@
   
 
 <!---
-- ![Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=CM-RejaulKarim&layout=compact)
-![Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cmabdullah&layout=compact&hide=javascript,html,css,php)
+- ![Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cmRejaulKarim&layout=compact)
+![Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cmRejaulKarim&layout=compact&hide=html,css,javascript,php)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
