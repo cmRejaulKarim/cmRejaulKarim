@@ -38,7 +38,7 @@
 
 <h3 align="left">Connect with me:<!--cmRejaulKarim--></h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/c-m-rejaul-karim-0039161b1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leoemranhss" height="30" width="40" /><!--cmRejaulKarim--></a>
+<a href="https://www.linkedin.com/in/cmRejaulKarim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leoemranhss" height="30" width="40" /><!--cmRejaulKarim--></a>
 <a href="https://www.facebook.com/IDK.Username.mine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="leoemranhss" height="30" width="40" /><!--cmRejaulKarim--></a>
 </p>
 
