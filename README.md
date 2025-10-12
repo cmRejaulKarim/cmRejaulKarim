@@ -86,6 +86,13 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
+ <a href="https://www.php.net/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="40" height="40"/> </a>
+ <a href="https://swagger.io/" target="_blank" rel="noreferrer">
+  <img src="https://static1.smartbear.co/swagger/media/assets/images/swagger_logo.svg" alt="swagger" width="100" height="40"/> </a>
+
+
+
    
 
 <!--   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
