@@ -1,25 +1,31 @@
 
-
-
-
 <!---![Life Code GIF](https://github.com/user-attachments/assets/0426b804-7cd1-447e-aa3a-b40a0a49e399) --->
 
- <h1 align="center">👋 Hi, I’m CM Rejaul Karim</h1>
+ <h1 align="center">👋 Hi, I’m C.M. Rejaul Karim</h1>
 
 <h3 align="center">Full Stack Java Developer</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-FullStack-blue" />
+  <img src="https://img.shields.io/badge/SpringBoot-Backend-green" />
+  <img src="https://img.shields.io/badge/Angular-Frontend-red" />
+</p>
+
+
 
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=RejaulKarim64&label=Profile%20views&color=0e75b6&style=flat" alt="cmRejaulKarim" /><!--cmRejaulKarim--></p>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=cmRejaulKarim&label=Profile%20views&color=0e75b6&style=flat" width="0" height="0" alt="cmRejaulKarim" /><!--cmRejaulKarim--></p>
 
 
-<h3 align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmRejaulKarim&layout=compact" alt="coding" align="right" width="300px" height="200"><!--cmRejaulKarim--></h3>
+<h3 align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmRejaulKarim&layout=compact&hide=html,css" alt="coding" align="right" width="300px" height="200"><!--cmRejaulKarim--></h3>
 
 
-- 👀 a passionate programmer and learner.
-- 🌱 I’m currently learning Spring Boot FrameWork.
-- 📫 How to reach me **cmrejaulkarim@gmail.com**
-- 📄 Know about my experiences [iamcrk.me](https://iamcrk.me)
+- 🎓 Completed professional training under the **IsDB–BISEW IT Scholarship Programme**.
+- 💼 Preparing for full-time opportunities in the IT industry as a **Full Stack Java Developer**.
+- 🚀 Strengthening my expertise through real-world projects and continuous learning.
+- 📫 Contact: **cmrejaulkarim@gmail.com**
+- 🌐 Portfolio: **[iamcrk.me](https://iamcrk.me)**
+
 
 
 
@@ -38,9 +44,10 @@
 
 <h3 align="left">Connect with me:<!--cmRejaulKarim--></h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/cmRejaulKarim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leoemranhss" height="30" width="40" /><!--cmRejaulKarim--></a>
-<a href="https://www.facebook.com/IDK.Username.mine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="leoemranhss" height="30" width="40" /><!--cmRejaulKarim--></a>
+<a href="https://www.linkedin.com/in/cmRejaulKarim" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="cmRejaulKarim" height="30" width="40" /><!--cmRejaulKarim--></a>
+<a href="https://www.facebook.com/IDK.Username.mine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cmRejaulKarim" height="30" width="40" /><!--cmRejaulKarim--></a>
 </p>
+
 
 
 
