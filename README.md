@@ -40,7 +40,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... --->
 
-![github-contribution-grid-snake-dark](https://github.com/user-attachments/assets/e077b614-a8cf-46cd-bb71-6cae9457ec93)
+![github-contribution-grid-snake-dark](https://github.com/cmRejaulKarim/cmRejaulKarim/blob/main/github-contribution-grid-snake-dark.svg)
 
 <h3 align="left">Connect with me:<!--cmRejaulKarim--></h3>
 <p align="left">
