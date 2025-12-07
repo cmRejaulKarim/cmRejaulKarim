@@ -17,7 +17,7 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=cmRejaulKarim&label=Profile%20views&color=0e75b6&style=flat" width="0" height="0" alt="cmRejaulKarim" /><!--cmRejaulKarim--></p>
 
 
-<h3 align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmRejaulKarim&layout=compact&hide=html,css" alt="coding" align="right" width="300px" height="200"><!--cmRejaulKarim--></h3>
+<h3 align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmRejaulKarim&layout=compact&hide=html,css" alt="cmRejaulKarim's_github-stats" align="right" width="300px" height="200"><!--cmRejaulKarim--></h3>
 
 
 - 🎓 Completed professional training under the **IsDB–BISEW IT Scholarship Programme**.
